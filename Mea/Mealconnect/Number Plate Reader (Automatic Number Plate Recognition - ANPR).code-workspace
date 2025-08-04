@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../Number Plate Reader (Automatic Number Plate Recognition - ANPR)"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "FoodYard"
+	}
+}

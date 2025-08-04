@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../Desktop/DEVELOPMENT/dartbasics"
+		},
+		{
+			"path": "../../../../Applications/XAMPP/xamppfiles/htdocs/tgt"
+		},
+		{
+			"path": "../meal-connect"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "FoodYard"
+	}
+}
